@@ -1,6 +1,6 @@
 # elm-react
 
-This is currently only a proof of concept: Build [React][react] applications using [Elm][elm]. This works better than I expected.
+This is currently only a proof of concept: Build [React][react] applications using [Elm][elm]. This works better than I expected. The whole thing currently runs on `react 0.14.3` and `elm 0.16`.
 
 ## What's included?
 
